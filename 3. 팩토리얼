@@ -26,7 +26,7 @@ int main()
 {
 
 
-    printf("%d",factorial(11));
+    printf("%d",factorial(131));
 
 
 
