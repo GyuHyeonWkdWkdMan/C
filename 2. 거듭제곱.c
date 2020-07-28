@@ -14,6 +14,6 @@ int Power(int x, int n)
 
 int main()
 {
-	int a = Power(2, 5);
+	int a = Power(2, 6);
 	printf("%d",a);
 }
