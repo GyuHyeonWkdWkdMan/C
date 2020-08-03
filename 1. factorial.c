@@ -14,7 +14,7 @@ int factorial(int su)
 
 int main()
 {
-	int a = factorial(5);
+	int a = factorial(6);
 	printf("%d", a);
 	printf("임시로 잘 되나 확인");
 }
