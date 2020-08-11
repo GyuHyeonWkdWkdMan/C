@@ -17,4 +17,10 @@ int main()
 	int a = Power(2, 5);
 	printf("%d",a);
 	printf("hellow ");
+	int num=10;
+	
+	for(int i=0 ; i<19 ; i++)
+	{
+		print("%d ",i)
+	}
 }
