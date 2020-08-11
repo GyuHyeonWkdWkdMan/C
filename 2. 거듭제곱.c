@@ -16,4 +16,5 @@ int main()
 {
 	int a = Power(2, 5);
 	printf("%d",a);
+	printf("hellow ");
 }
