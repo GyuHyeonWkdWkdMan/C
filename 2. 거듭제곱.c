@@ -14,7 +14,7 @@ int Power(int x, int n)
 
 int main()
 {
-	int a = Power(2, 5);
+	int a = Power(2, 4);
 	printf("%d",a);
 	printf("hellow ");
 	int num=10;
